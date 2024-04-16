@@ -1,5 +1,5 @@
 <script>
-import FirstPageomponent from './pages/FirstPageomponent.vue' 
+import FirstPageomponent from './pages/FirstPageComponent.vue' 
 
 export default {
   name: "App",
@@ -14,10 +14,10 @@ export default {
 
 </script>
 
-<template>
-<div>
+<template class="">
+
   <FirstPageomponent></FirstPageomponent>
-</div>
+
 </template>
 
 <style scoped>
